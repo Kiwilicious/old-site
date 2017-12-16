@@ -8,7 +8,7 @@ import './index.css'
 const Header = () => (
   <div
     style={{
-      background: '#d3d3d3',
+      background: '#8BB7E3',
       marginBottom: '1.45rem',
     }}
   >
@@ -39,6 +39,9 @@ const TemplateWrapper = ({ children }) => (
     <Helmet>
       <title>James Hwang's Portfolio Site</title>
       <meta name='Portfolio Site' content='A place where Kiwilicious can proudly direct people to.' />
+
+      <link href="https://fonts.googleapis.com/css?family=Lato:300,300i,400,400i,700" rel="stylesheet" />
+
       <link rel="stylesheet" href="https://cdn.rawgit.com/konpa/devicon/df6431e323547add1b4cf45992913f15286456d3/devicon.min.css" />
       <link rel="stylesheet" href="https://cdn.rawgit.com/konpa/devicon/df6431e323547add1b4cf45992913f15286456d3/devicon.min.css" />
       <link rel="stylesheet" href="https://cdn.rawgit.com/konpa/devicon/df6431e323547add1b4cf45992913f15286456d3/devicon.min.css" />
