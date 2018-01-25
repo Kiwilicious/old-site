@@ -1,45 +1,45 @@
 {
   "assetsByChunkName": {
     "component---src-pages-index-js": [
-      "component---src-pages-index-js-e601a16d64446e27da04.js",
-      "component---src-pages-index-js-e601a16d64446e27da04.js.map"
+      "component---src-pages-index-js-d13bb161323d72e06547.js",
+      "component---src-pages-index-js-d13bb161323d72e06547.js.map"
     ],
     "path---": [
       "path----557518bd178906f8d58a.js",
       "path----557518bd178906f8d58a.js.map"
     ],
     "component---src-layouts-index-js": [
-      "component---src-layouts-index-js-70e8776a642ea8ae7fcc.js",
-      "component---src-layouts-index-js-70e8776a642ea8ae7fcc.js.map"
-    ],
-    "path---page-2": [
-      "path---page-2-a0e39f21c11f6a62c5ab.js",
-      "path---page-2-a0e39f21c11f6a62c5ab.js.map"
+      "component---src-layouts-index-js-d4255d2aa367e264ced8.js",
+      "component---src-layouts-index-js-d4255d2aa367e264ced8.js.map"
     ],
     "path---index": [
       "path---index-a0e39f21c11f6a62c5ab.js",
       "path---index-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "component---src-pages-coding-challenges-js": [
+      "component---src-pages-coding-challenges-js-3b3eaec2b8c4be686160.js",
+      "component---src-pages-coding-challenges-js-3b3eaec2b8c4be686160.js.map"
     ],
     "component---src-pages-404-js": [
       "component---src-pages-404-js-4503918ea3a16cfcdb75.js",
       "component---src-pages-404-js-4503918ea3a16cfcdb75.js.map"
     ],
     "commons": [
-      "commons-68aad81503ae45628ade.js",
-      "commons-68aad81503ae45628ade.js.map"
+      "commons-cfe08c15100186618874.js",
+      "commons-cfe08c15100186618874.js.map"
     ],
     "path---404-html": [
       "path---404-html-a0e39f21c11f6a62c5ab.js",
       "path---404-html-a0e39f21c11f6a62c5ab.js.map"
     ],
-    "component---src-pages-page-2-js": [
-      "component---src-pages-page-2-js-19bff3f8b169049690f3.js",
-      "component---src-pages-page-2-js-19bff3f8b169049690f3.js.map"
+    "path---coding-challenges": [
+      "path---coding-challenges-a0e39f21c11f6a62c5ab.js",
+      "path---coding-challenges-a0e39f21c11f6a62c5ab.js.map"
     ],
     "app": [
-      "app-7a2fe9cdfefc63f3ef30.js",
+      "app-7615a53f2c2e7abd9059.js",
       "build-js-styles.css",
-      "app-7a2fe9cdfefc63f3ef30.js.map",
+      "app-7615a53f2c2e7abd9059.js.map",
       "build-js-styles.css.map"
     ],
     "path---404": [
