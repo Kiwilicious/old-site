@@ -35,7 +35,7 @@ const Header = () => (
       </h1>
       <h3 style={{ margin: 0 }}>
         <Link
-          to="/coding-challenges/"
+          to="/coding-challenges"
           style={{
             color: 'white',
             "margin-left": '1em',
