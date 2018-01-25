@@ -11,10 +11,10 @@ export default class TinyChatChallenge extends Component {
           <p>
             This challenge involved taking the small boilerplate template provided and designing the client side of a simple
             chat app. There was a dummy python server provided but due to issues, I substituted it for a node/express server
-            instead. This was a fun challenge done in vanilla HTML with jQuery.
+            instead. This challenge was done in vanilla HTML with jQuery.
           </p>
           <a href="https://github.com/Kiwilicious/tinychat">Code here</a>
-          </div>
+        </div>
       </div>
     )
   }
