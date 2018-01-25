@@ -1,10 +1,9 @@
-import React from "react";
-import Link from "gatsby-link";
+import React from 'react';
 
 const IndexPage = () => (
   <div>
     <p style={{
-      fontSize: "20px",
+      fontSize: '20px',
       fontWeight: 300,
     }}>
       I am a Software engineer specializing in frontend web development with a passion
@@ -26,14 +25,14 @@ const IndexPage = () => (
       </div>
       <div>
         <i className="devicon-jquery-plain-wordmark colored" />
-        <a href="https://github.com/Kiwilicious/tinychat/blob/master/js/app-main.js" target="_blank">Example</a>
+        <a href="https://github.com/Kiwilicious/tinychat/blob/master/js/app-main.js" target="_blank" rel="noopener noreferrer">Example</a>
       </div>
       <div>
         <i className="devicon-bootstrap-plain-wordmark colored" />
       </div>
       <div>
         <i className="devicon-react-original-wordmark colored" />
-        <a href="https://github.com/Kiwilicious/CARe/blob/master/client/app/containers/navBar/NavigationBar.jsx" target="_blank">Example</a>
+        <a href="https://github.com/Kiwilicious/CARe/blob/master/client/app/containers/navBar/NavigationBar.jsx" target="_blank" rel="noopener noreferrer">Example</a>
       </div>
       <div>
         <i className="devicon-angularjs-plain colored" />
@@ -50,18 +49,18 @@ const IndexPage = () => (
       </div>
       <div>
         <i className="devicon-express-original colored" />
-        <a href="https://github.com/Kiwilicious/CARe/blob/master/server/index.js" target="_blank">Example</a>
+        <a href="https://github.com/Kiwilicious/CARe/blob/master/server/index.js" target="_blank" rel="noopener noreferrer">Example</a>
       </div>
       <div>
         <i className="devicon-mysql-plain-wordmark colored" />
       </div>
       <div>
         <i className="devicon-postgresql-plain-wordmark colored" />
-        <a href="https://github.com/Kiwilicious/CARe/blob/master/server/controllers/searchCtrl.js" target="_blank">Example</a>
+        <a href="https://github.com/Kiwilicious/CARe/blob/master/server/controllers/searchCtrl.js" target="_blank" rel="noopener noreferrer">Example</a>
       </div>
       <div>
         <i className="devicon-sequelize-plain colored" />
-        <a href="https://github.com/Kiwilicious/CARe/blob/master/db/index.js" target="_blank">Example</a>
+        <a href="https://github.com/Kiwilicious/CARe/blob/master/db/index.js" target="_blank" rel="noopener noreferrer">Example</a>
       </div>
     </div>
     <h4 className="tech-icon-header">Other</h4>

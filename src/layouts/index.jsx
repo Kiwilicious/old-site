@@ -1,9 +1,9 @@
-import React from 'react'
-import PropTypes from 'prop-types'
-import Link from 'gatsby-link'
-import Helmet from 'react-helmet'
+import React from 'react';
+import PropTypes from 'prop-types';
+import Link from 'gatsby-link';
+import Helmet from 'react-helmet';
 
-import './index.css'
+import './index.css';
 
 const Header = () => (
   <div
@@ -14,9 +14,9 @@ const Header = () => (
   >
     <div
       style={{
-        "align-items": 'baseline',
+        'align-items': 'baseline',
         display: 'flex',
-        "flex-direction": 'row',
+        'flex-direction': 'row',
         margin: '0 auto',
         maxWidth: 960,
         padding: '1.45rem 1.0875rem',
@@ -47,13 +47,13 @@ const Header = () => (
       </h3>
     </div>
   </div>
-)
+);
 
 const TemplateWrapper = ({ children }) => (
   <div>
     <Helmet>
       <title>James Hwang's Portfolio Site</title>
-      <meta name='Portfolio Site' content='A place where Kiwilicious can proudly direct people to.' />
+      <meta name="Portfolio Site" content="A place where Kiwilicious can proudly direct people to." />
 
       <link href="https://fonts.googleapis.com/css?family=Lato:300,300i,400,400i,700" rel="stylesheet" />
 
@@ -85,10 +85,10 @@ const TemplateWrapper = ({ children }) => (
       {children()}
     </div>
   </div>
-)
+);
 
 TemplateWrapper.propTypes = {
   children: PropTypes.func,
-}
+};
 
-export default TemplateWrapper
+export default TemplateWrapper;
