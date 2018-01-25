@@ -14,8 +14,8 @@ export default class FSFormChallenge extends Component {
             buttons. Instead I opted to use CSS transitions to color in the border of the button. This challenge
             was done in React.
           </p>
-          <a href="https://codepen.io/Kiwilicious/pen/RxqWXY?editors=0110">Code here</a>
-
+          <a href="https://codepen.io/Kiwilicious/pen/RxqWXY?editors=0110" target="_blank">Code here</a>
+          <hr/>
           <h2>Ruby Implementation of Erlang Code</h2>
           <p>
             This challenge involved taking the code provided in the language Erlang and recreate it in Ruby. I
@@ -24,9 +24,9 @@ export default class FSFormChallenge extends Component {
             code was simple enough, although I tripped over a few times because of syntax. This challenge was done in
             vanilla Ruby.
           </p>
-          <a href="https://gist.github.com/dudo/93c0d1ee5b627c2a6cde30616540fb7f">Code in Erlang</a>
+          <a href="https://gist.github.com/dudo/93c0d1ee5b627c2a6cde30616540fb7f" target="_blank">Code in Erlang</a>
           <br/>
-          <a href="https://gist.github.com/Kiwilicious/3b6728f4276fe7beb14795f830abbebe">Code in Ruby</a>
+          <a href="https://gist.github.com/Kiwilicious/3b6728f4276fe7beb14795f830abbebe" target="_blank">Code in Ruby</a>
         </div>
       </div>
     )
