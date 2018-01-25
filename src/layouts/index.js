@@ -14,6 +14,9 @@ const Header = () => (
   >
     <div
       style={{
+        "align-items": 'baseline',
+        display: 'flex',
+        "flex-direction": 'row',
         margin: '0 auto',
         maxWidth: 960,
         padding: '1.45rem 1.0875rem',
@@ -30,6 +33,18 @@ const Header = () => (
           Home
         </Link>
       </h1>
+      <h3 style={{ margin: 0 }}>
+        <Link
+          to="/coding-challenges/"
+          style={{
+            color: 'white',
+            "margin-left": '1em',
+            textDecoration: 'none',
+          }}
+        >
+          Coding Challenges
+        </Link>
+      </h3>
     </div>
   </div>
 )
