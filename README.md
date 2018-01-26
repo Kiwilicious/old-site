@@ -1,13 +1,7 @@
-# gatsby-starter-default
-The default Gatsby starter
+This is the source code for the site located at kiwilicious.github.io which serves as a personal
+portfolio site for James. It is statically generated with Gatsby and made in React. If for any
+reason you wish to fork this site, setting up is as simple as:
 
-For an overview of the project structure please refer to the [Gatsby documentation - Building with Components](https://www.gatsbyjs.org/docs/building-with-components/)
-
-Install this starter (assuming Gatsby is installed) by running from your CLI:
-```
-gatsby new gatsby-example-site
-```
-
-## Deploy
-
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/gatsbyjs/gatsby-starter-default)
+1. run `npm i`
+2. run `npm run develop`
+3. go to `localhost:8000`
