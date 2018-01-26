@@ -2,10 +2,12 @@ import React from 'react';
 
 const IndexPage = () => (
   <div>
-    <p style={{
-      fontSize: '20px',
-      fontWeight: 300,
-    }}>
+    <p
+      style={{
+        fontSize: '20px',
+        fontWeight: 300,
+      }}
+    >
       I am a Software engineer specializing in frontend web development with a passion
       of making elegant and lightweight single page applications. Also a game
       enthusiast with an interest in the rising prominence of esports. Below are

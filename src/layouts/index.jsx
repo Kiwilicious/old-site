@@ -38,7 +38,7 @@ const Header = () => (
           to="/coding-challenges"
           style={{
             color: 'white',
-            "margin-left": '1em',
+            'margin-left': '1em',
             textDecoration: 'none',
           }}
         >
@@ -52,8 +52,8 @@ const Header = () => (
 const TemplateWrapper = ({ children }) => (
   <div>
     <Helmet>
-      <title>James Hwang's Portfolio Site</title>
-      <meta name="Portfolio Site" content="A place where Kiwilicious can proudly direct people to." />
+      <title>James Hwang&apos;s Portfolio Site</title>
+      <meta name="Portfolio Site" content="Aggregation of James&apos; works" />
 
       <link href="https://fonts.googleapis.com/css?family=Lato:300,300i,400,400i,700" rel="stylesheet" />
 
@@ -89,6 +89,10 @@ const TemplateWrapper = ({ children }) => (
 
 TemplateWrapper.propTypes = {
   children: PropTypes.func,
+};
+
+TemplateWrapper.defaultProps = {
+  children: () => {},
 };
 
 export default TemplateWrapper;
