@@ -1,9 +1,7 @@
 import React from 'react';
-import Link from 'gatsby-link';
 
 const FSFormChallenge = () => (
   <div>
-    <div><Link to="/coding-challenges">Back to coding challenges</Link></div>
     <div>
       <h2>Input Form</h2>
       <p>
