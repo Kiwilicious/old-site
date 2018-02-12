@@ -33,7 +33,7 @@ const NavBar = (props) => {
         <Toolbar>
           <Grid container spacing={16} justify="center">
             <Grid item sm={2}>
-              <Link to="/coding-challenges" className={classes.link}>
+              <Link to="/code-samples" className={classes.link}>
                 <Typography variant="title" color="inherit">
                   Code Samples
                 </Typography>

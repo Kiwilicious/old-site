@@ -1,7 +1,7 @@
 import React from 'react';
 import Link from 'gatsby-link';
 
-const CodingChallenges = () => (
+const CodeSamples = () => (
   <div>
     <p>***WIP***</p>
     <p>Below are some of the coding challenges I&apos;ve completed for various companies.</p>
@@ -73,4 +73,4 @@ const CodingChallenges = () => (
   </div>
 );
 
-export default CodingChallenges;
+export default CodeSamples;
