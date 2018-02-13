@@ -4,13 +4,21 @@
       "component---src-pages-cc-chat-jsx-56bf70dd4ad92f1e798a.js",
       "component---src-pages-cc-chat-jsx-56bf70dd4ad92f1e798a.js.map"
     ],
+    "component---src-pages-contact-jsx": [
+      "component---src-pages-contact-jsx-9f393e609d0168bff0ba.js",
+      "component---src-pages-contact-jsx-9f393e609d0168bff0ba.js.map"
+    ],
     "path---": [
       "path----557518bd178906f8d58a.js",
       "path----557518bd178906f8d58a.js.map"
     ],
+    "component---src-pages-code-samples-jsx": [
+      "component---src-pages-code-samples-jsx-0442f94808168eab5575.js",
+      "component---src-pages-code-samples-jsx-0442f94808168eab5575.js.map"
+    ],
     "component---src-layouts-index-jsx": [
-      "component---src-layouts-index-jsx-476d5cc536c0c4929bc4.js",
-      "component---src-layouts-index-jsx-476d5cc536c0c4929bc4.js.map"
+      "component---src-layouts-index-jsx-15d92a7aa6cf485df0ef.js",
+      "component---src-layouts-index-jsx-15d92a7aa6cf485df0ef.js.map"
     ],
     "path---cc-fsinput": [
       "path---cc-fsinput-a0e39f21c11f6a62c5ab.js",
@@ -20,13 +28,9 @@
       "path---index-a0e39f21c11f6a62c5ab.js",
       "path---index-a0e39f21c11f6a62c5ab.js.map"
     ],
-    "component---src-pages-coding-challenges-jsx": [
-      "component---src-pages-coding-challenges-jsx-1834468db3f474c721e3.js",
-      "component---src-pages-coding-challenges-jsx-1834468db3f474c721e3.js.map"
-    ],
     "commons": [
-      "commons-6bcf918776c71dca1a00.js",
-      "commons-6bcf918776c71dca1a00.js.map"
+      "commons-7c2697ef342d831b8a9d.js",
+      "commons-7c2697ef342d831b8a9d.js.map"
     ],
     "path---404-html": [
       "path---404-html-a0e39f21c11f6a62c5ab.js",
@@ -36,13 +40,17 @@
       "component---src-pages-404-jsx-4503918ea3a16cfcdb75.js",
       "component---src-pages-404-jsx-4503918ea3a16cfcdb75.js.map"
     ],
-    "path---coding-challenges": [
-      "path---coding-challenges-a0e39f21c11f6a62c5ab.js",
-      "path---coding-challenges-a0e39f21c11f6a62c5ab.js.map"
+    "path---contact": [
+      "path---contact-a0e39f21c11f6a62c5ab.js",
+      "path---contact-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---code-samples": [
+      "path---code-samples-a0e39f21c11f6a62c5ab.js",
+      "path---code-samples-a0e39f21c11f6a62c5ab.js.map"
     ],
     "component---src-pages-index-jsx": [
-      "component---src-pages-index-jsx-26dd0f56d7e79848e2ee.js",
-      "component---src-pages-index-jsx-26dd0f56d7e79848e2ee.js.map"
+      "component---src-pages-index-jsx-e5829272277129598e3f.js",
+      "component---src-pages-index-jsx-e5829272277129598e3f.js.map"
     ],
     "path---cc-chat": [
       "path---cc-chat-a0e39f21c11f6a62c5ab.js",
@@ -53,9 +61,9 @@
       "component---src-pages-cc-fsinput-jsx-761d76416a48cbd0a1b9.js.map"
     ],
     "app": [
-      "app-26582108a9d859b00f81.js",
+      "app-463938fe5d61dd5e2110.js",
       "build-js-styles.css",
-      "app-26582108a9d859b00f81.js.map",
+      "app-463938fe5d61dd5e2110.js.map",
       "build-js-styles.css.map"
     ],
     "path---404": [
