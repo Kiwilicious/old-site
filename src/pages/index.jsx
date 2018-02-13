@@ -147,7 +147,7 @@ const HomePage = (props) => {
 
 
 HomePage.propTypes = {
-  classes: PropTypes.func.isRequired,
+  classes: PropTypes.object.isRequired,
 };
 
 export default withStyles(styles)(HomePage);

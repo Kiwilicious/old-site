@@ -35,7 +35,7 @@ const TemplateWrapper = (props) => {
 
 TemplateWrapper.propTypes = {
   children: PropTypes.func.isRequired,
-  classes: PropTypes.func.isRequired,
+  classes: PropTypes.object.isRequired,
 };
 
 export default withStyles(styles)(TemplateWrapper);
