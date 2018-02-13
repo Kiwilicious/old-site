@@ -13,7 +13,7 @@ const styles = theme => ({
     width: '100%',
   },
   link: {
-    color: 'white',
+    color: theme.palette.text.primary,
     textAlign: 'center',
     textDecoration: 'none',
     '&:hover': {
