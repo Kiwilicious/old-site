@@ -32,23 +32,23 @@ const NavBar = (props) => {
       <AppBar position="static">
         <Toolbar>
           <Grid container spacing={16} justify="center">
-            <Grid item sm={2}>
+            {/* <Grid item sm={2}>
               <Link to="/code-samples" className={classes.link}>
                 <Typography variant="title" color="inherit">
                   Code Samples
                 </Typography>
               </Link>
-            </Grid>
+            </Grid> */}
             <Link to="/" className={classes.link}>
               <HomeIcon className={classes.icon} />
             </Link>
-            <Grid item sm={2}>
+            {/* <Grid item sm={2}>
               <Link to="/contact" className={classes.link}>
                 <Typography variant="title" color="inherit">
                   Contact
                 </Typography>
               </Link>
-            </Grid>
+            </Grid> */}
           </Grid>
         </Toolbar>
       </AppBar>
