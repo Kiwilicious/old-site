@@ -25,13 +25,13 @@ const HomePage = (props) => {
     <div>
       <Grid container spacing={16}>
         <Grid item sm={12} xs={12}>
-          <Typography variant="display2">
-            My name is James Hwang
+          <Typography variant="display1" gutterBottom>
+            Home
           </Typography>
           <Typography variant="subheading">
-            I am a Software engineer specializing in frontend web development with a passion
-            of making elegant and lightweight single page applications. Also a game
-            enthusiast with an interest in the rising prominence of esports.
+            My name is James Hwang. I am a Software engineer specializing in frontend web
+            development with a passion of making elegant and lightweight single page applications.
+            I am also a game enthusiast with an interest in the rising prominence of esports.
           </Typography>
         </Grid>
         <Grid item className={classes.sectionHeader} sm={12} xs={12}>

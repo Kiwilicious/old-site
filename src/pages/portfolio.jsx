@@ -1,9 +1,12 @@
 import React from 'react';
 import Link from 'gatsby-link';
+import Typography from 'material-ui/Typography';
 
 const Portfolio = () => (
   <div>
-    WIP
+    <Typography variant="display1" gutterBottom>
+      Portfolio
+    </Typography>
     <p>Below are some of the coding challenges I&apos;ve completed for various companies.</p>
     <div><Link to="/portfolio/tinyChat">Front end chat app</Link></div>
     <div><Link to="/portfolio/simpleForm">Front end input form & back end implementation</Link></div>

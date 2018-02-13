@@ -3,7 +3,7 @@ import Typography from 'material-ui/Typography';
 
 const Contact = () => (
   <div>
-    <Typography variant="display2" gutterBottom>
+    <Typography variant="display1" gutterBottom>
       Contact
     </Typography>
     <Typography variant="subheading">
