@@ -1,12 +1,12 @@
 import React from 'react';
 import Link from 'gatsby-link';
 
-const CodeSamples = () => (
+const Portfolio = () => (
   <div>
     WIP
     <p>Below are some of the coding challenges I&apos;ve completed for various companies.</p>
-    <div><Link to="/cc-chat">Front end chat app</Link></div>
-    <div><Link to="/cc-fsinput">Front end input form & back end implementation</Link></div>
+    <div><Link to="/portfolio/tinyChat">Front end chat app</Link></div>
+    <div><Link to="/portfolio/simpleForm">Front end input form & back end implementation</Link></div>
 
     <hr />
     <p>Sample code</p>
@@ -23,4 +23,4 @@ const CodeSamples = () => (
   </div>
 );
 
-export default CodeSamples;
+export default Portfolio;
