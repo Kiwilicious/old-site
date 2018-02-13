@@ -7,22 +7,22 @@ const Portfolio = () => (
     <Typography variant="display1" gutterBottom>
       Portfolio
     </Typography>
-    <p>Below are some of the coding challenges I&apos;ve completed for various companies.</p>
-    <div><Link to="/portfolio/tinyChat">Front end chat app</Link></div>
-    <div><Link to="/portfolio/simpleForm">Front end input form & back end implementation</Link></div>
-
-    <hr />
-    <p>Sample code</p>
-    <br />
-    <a href="https://github.com/Kiwilicious/tinychat/blob/master/js/app-main.js" target="_blank" rel="noopener noreferrer">Example</a>
-    <br />
-    <a href="https://github.com/Kiwilicious/CARe/blob/master/client/app/containers/navBar/NavigationBar.jsx" target="_blank" rel="noopener noreferrer">Example</a>
-    <br />
-    <a href="https://github.com/Kiwilicious/CARe/blob/master/server/index.js" target="_blank" rel="noopener noreferrer">Example</a>
-    <br />
-    <a href="https://github.com/Kiwilicious/CARe/blob/master/server/controllers/searchCtrl.js" target="_blank" rel="noopener noreferrer">Example</a>
-    <br />
-    <a href="https://github.com/Kiwilicious/CARe/blob/master/db/index.js" target="_blank" rel="noopener noreferrer">Example</a>
+    <Typography variant="headline" gutterBottom>
+      Coding Challenges
+      <Typography variant="body2">
+        <Link to="/portfolio/tinyChat">Front end chat app</Link>
+        <br />
+        <Link to="/portfolio/simpleForm">
+          Front end input form & back end Ruby implementation of Erlang
+        </Link>
+      </Typography>
+    </Typography>
+    <Typography variant="headline" gutterBottom>
+      Coding Snippets
+    </Typography>
+    <Typography variant="headline" gutterBottom>
+      Projects
+    </Typography>
   </div>
 );
 
