@@ -11,7 +11,7 @@ const styles = () => ({
     fontFamily: 'roboto',
     margin: '0 auto',
     maxWidth: 960,
-    padding: '0px 1rem 1.45rem',
+    padding: '1rem 1rem 1.45rem',
   },
 });
 
