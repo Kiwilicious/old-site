@@ -13,12 +13,19 @@ const Portfolio = () => (
         <Link to="/portfolio/tinyChat">Front end chat app</Link>
         <br />
         <Link to="/portfolio/simpleForm">
-          Front end input form & back end Ruby implementation of Erlang
+          Front end input form & Back end Ruby implementation of Erlang
         </Link>
       </Typography>
     </Typography>
     <Typography variant="headline" gutterBottom>
       Coding Snippets
+      <Typography variant="body2">
+        <a href="https://codepen.io/Kiwilicious/pen/bLGmRq" target="_blank" rel="noopener noreferrer">TwitchTV viewer</a>
+        <br />
+        <a href="https://codepen.io/Kiwilicious/pen/oBbXyP" target="_blank" rel="noopener noreferrer">Wikipedia viewer</a>
+        <br />
+        <a href="https://codepen.io/Kiwilicious/pen/KNRXPO" target="_blank" rel="noopener noreferrer">Random quote generator</a>
+      </Typography>
     </Typography>
     <Typography variant="headline" gutterBottom>
       Projects
