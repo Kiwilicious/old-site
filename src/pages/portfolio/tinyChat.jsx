@@ -11,7 +11,7 @@ const TinyChat = () => (
         issues, I substituted it for a node/express server instead. This challenge was done in
         vanilla HTML with jQuery.
       </Typography>
-      <Typography>
+      <Typography variant="body2">
         <a href="https://github.com/Kiwilicious/tinychat" target="_blank" rel="noopener noreferrer">Code here</a>
       </Typography>
     </Typography>

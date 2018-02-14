@@ -11,7 +11,7 @@ const SimpleForm = () => (
         implementing animation on buttons. Instead I opted to use CSS transitions to color in the
         border of the button. This challenge was done in React.
       </Typography>
-      <Typography>
+      <Typography variant="body2">
         <a href="https://codepen.io/Kiwilicious/pen/RxqWXY?editors=0110" target="_blank" rel="noopener noreferrer">Code here</a>
       </Typography>
     </Typography>
@@ -24,7 +24,7 @@ const SimpleForm = () => (
         the future. Turns out the logic of the code was simple enough, although I tripped over a few
         times because of syntax. This challenge was done in vanilla Ruby.
       </Typography>
-      <Typography>
+      <Typography variant="body2">
         <a href="https://gist.github.com/dudo/93c0d1ee5b627c2a6cde30616540fb7f" target="_blank" rel="noopener noreferrer">Code in Erlang</a>
         <br />
         <a href="https://gist.github.com/Kiwilicious/3b6728f4276fe7beb14795f830abbebe" target="_blank" rel="noopener noreferrer">Code in Ruby</a>
