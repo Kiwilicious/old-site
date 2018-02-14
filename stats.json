@@ -1,36 +1,36 @@
 {
   "assetsByChunkName": {
-    "component---src-pages-cc-chat-jsx": [
-      "component---src-pages-cc-chat-jsx-56bf70dd4ad92f1e798a.js",
-      "component---src-pages-cc-chat-jsx-56bf70dd4ad92f1e798a.js.map"
+    "path---portfolio-tiny-chat": [
+      "path---portfolio-tiny-chat-a0e39f21c11f6a62c5ab.js",
+      "path---portfolio-tiny-chat-a0e39f21c11f6a62c5ab.js.map"
     ],
     "component---src-pages-contact-jsx": [
-      "component---src-pages-contact-jsx-9f393e609d0168bff0ba.js",
-      "component---src-pages-contact-jsx-9f393e609d0168bff0ba.js.map"
+      "component---src-pages-contact-jsx-02a0794f596e6ba16a4d.js",
+      "component---src-pages-contact-jsx-02a0794f596e6ba16a4d.js.map"
+    ],
+    "component---src-pages-portfolio-tiny-chat-jsx": [
+      "component---src-pages-portfolio-tiny-chat-jsx-c21302c2f8a0daeedcf4.js",
+      "component---src-pages-portfolio-tiny-chat-jsx-c21302c2f8a0daeedcf4.js.map"
     ],
     "path---": [
       "path----557518bd178906f8d58a.js",
       "path----557518bd178906f8d58a.js.map"
     ],
-    "component---src-pages-code-samples-jsx": [
-      "component---src-pages-code-samples-jsx-0442f94808168eab5575.js",
-      "component---src-pages-code-samples-jsx-0442f94808168eab5575.js.map"
-    ],
     "component---src-layouts-index-jsx": [
-      "component---src-layouts-index-jsx-15d92a7aa6cf485df0ef.js",
-      "component---src-layouts-index-jsx-15d92a7aa6cf485df0ef.js.map"
+      "component---src-layouts-index-jsx-f23ed309aef68e59c060.js",
+      "component---src-layouts-index-jsx-f23ed309aef68e59c060.js.map"
     ],
-    "path---cc-fsinput": [
-      "path---cc-fsinput-a0e39f21c11f6a62c5ab.js",
-      "path---cc-fsinput-a0e39f21c11f6a62c5ab.js.map"
+    "path---portfolio-simple-form": [
+      "path---portfolio-simple-form-a0e39f21c11f6a62c5ab.js",
+      "path---portfolio-simple-form-a0e39f21c11f6a62c5ab.js.map"
     ],
     "path---index": [
       "path---index-a0e39f21c11f6a62c5ab.js",
       "path---index-a0e39f21c11f6a62c5ab.js.map"
     ],
     "commons": [
-      "commons-7c2697ef342d831b8a9d.js",
-      "commons-7c2697ef342d831b8a9d.js.map"
+      "commons-c69180931a362206fdf7.js",
+      "commons-c69180931a362206fdf7.js.map"
     ],
     "path---404-html": [
       "path---404-html-a0e39f21c11f6a62c5ab.js",
@@ -44,31 +44,31 @@
       "path---contact-a0e39f21c11f6a62c5ab.js",
       "path---contact-a0e39f21c11f6a62c5ab.js.map"
     ],
-    "path---code-samples": [
-      "path---code-samples-a0e39f21c11f6a62c5ab.js",
-      "path---code-samples-a0e39f21c11f6a62c5ab.js.map"
+    "path---portfolio": [
+      "path---portfolio-a0e39f21c11f6a62c5ab.js",
+      "path---portfolio-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "component---src-pages-portfolio-simple-form-jsx": [
+      "component---src-pages-portfolio-simple-form-jsx-145b5688b3341fb573ae.js",
+      "component---src-pages-portfolio-simple-form-jsx-145b5688b3341fb573ae.js.map"
     ],
     "component---src-pages-index-jsx": [
-      "component---src-pages-index-jsx-e5829272277129598e3f.js",
-      "component---src-pages-index-jsx-e5829272277129598e3f.js.map"
-    ],
-    "path---cc-chat": [
-      "path---cc-chat-a0e39f21c11f6a62c5ab.js",
-      "path---cc-chat-a0e39f21c11f6a62c5ab.js.map"
-    ],
-    "component---src-pages-cc-fsinput-jsx": [
-      "component---src-pages-cc-fsinput-jsx-761d76416a48cbd0a1b9.js",
-      "component---src-pages-cc-fsinput-jsx-761d76416a48cbd0a1b9.js.map"
+      "component---src-pages-index-jsx-0c71542672091cda4058.js",
+      "component---src-pages-index-jsx-0c71542672091cda4058.js.map"
     ],
     "app": [
-      "app-730fb32e3a29a1b45255.js",
+      "app-3190ebbb7d8e55260a06.js",
       "build-js-styles.css",
-      "app-730fb32e3a29a1b45255.js.map",
+      "app-3190ebbb7d8e55260a06.js.map",
       "build-js-styles.css.map"
     ],
     "path---404": [
       "path---404-a0e39f21c11f6a62c5ab.js",
       "path---404-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "component---src-pages-portfolio-jsx": [
+      "component---src-pages-portfolio-jsx-5a9bac6be6dfbfb3b9c1.js",
+      "component---src-pages-portfolio-jsx-5a9bac6be6dfbfb3b9c1.js.map"
     ]
   }
 }
