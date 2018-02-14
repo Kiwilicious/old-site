@@ -29,6 +29,15 @@ const Portfolio = () => (
     </Typography>
     <Typography variant="headline" gutterBottom>
       Projects
+      <Typography variant="body2">
+        <a href="https://github.com/Kiwilicious/kiwilicious.github.io" target="_blank" rel="noopener noreferrer">Kiwilicious</a>
+        <br />
+        <a href="https://github.com/HabitRPG/habitica" target="_blank" rel="noopener noreferrer">Habitica</a>
+        <br />
+        <a href="https://github.com/griffanddorks/CARe" target="_blank" rel="noopener noreferrer">CARe</a>
+        <br />
+        <a href="https://github.com/friendlyst/friendlyst" target="_blank" rel="noopener noreferrer">Friendlyst</a>
+      </Typography>
     </Typography>
   </div>
 );
