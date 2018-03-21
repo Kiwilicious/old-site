@@ -20,6 +20,8 @@ const Portfolio = () => (
     <Typography variant="headline" gutterBottom>
       Coding Snippets
       <Typography variant="body2">
+        <a href="https://codepen.io/Kiwilicious/pen/VQJPyv" target="_blank" rel="noopener noreferrer">JavaScript Calculator</a>
+        <br />
         <a href="https://codepen.io/Kiwilicious/pen/bLGmRq" target="_blank" rel="noopener noreferrer">TwitchTV viewer</a>
         <br />
         <a href="https://codepen.io/Kiwilicious/pen/oBbXyP" target="_blank" rel="noopener noreferrer">Wikipedia viewer</a>
