@@ -10,15 +10,15 @@ const Portfolio = () => (
     <Typography variant="headline" gutterBottom>
       Coding Challenges
       <Typography variant="body2">
-        <Link to="/portfolio/tinyChat">Front end chat app</Link>
+        <Link to="/portfolio/generateHistogram">
+          Generate histogram based on target email activity
+        </Link>
         <br />
         <Link to="/portfolio/simpleForm">
           Front end input form & Back end Ruby implementation of Erlang
         </Link>
         <br />
-        <Link to="/portfolio/generateHistogram">
-          Generate histogram based on target email activity
-        </Link>
+        <Link to="/portfolio/tinyChat">Front end chat app</Link>
       </Typography>
     </Typography>
     <Typography variant="headline" gutterBottom>
