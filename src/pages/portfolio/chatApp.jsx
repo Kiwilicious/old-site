@@ -1,10 +1,10 @@
 import React from 'react';
 import Typography from 'material-ui/Typography';
 
-const TinyChat = () => (
+const ChatApp = () => (
   <div>
     <Typography variant="display1" gutterBottom>
-      Front end chat app
+      Chat App
     </Typography>
     <Typography variant="subheading">
       This challenge involved taking the small boilerplate template provided and designing the
@@ -18,4 +18,4 @@ const TinyChat = () => (
   </div>
 );
 
-export default TinyChat;
+export default ChatApp;

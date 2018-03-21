@@ -1,10 +1,10 @@
 import React from 'react';
 import Typography from 'material-ui/Typography';
 
-const GenerateHistogram = () => (
+const HistogramGenerator = () => (
   <div>
     <Typography variant="display1" gutterBottom>
-      Generate histogram based on target email activity
+      Histogram Generator
     </Typography>
     <Typography variant="subheading">
       This challenge involved producing a histogram based on events for a specific email. The
@@ -19,4 +19,4 @@ const GenerateHistogram = () => (
   </div>
 );
 
-export default GenerateHistogram;
+export default HistogramGenerator;

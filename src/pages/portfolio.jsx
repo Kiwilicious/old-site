@@ -12,15 +12,11 @@ const Portfolio = () => (
       <Typography variant="body2">
         <Link to="/portfolio/customerRecords">Customer Records</Link>
         <br />
-        <Link to="/portfolio/generateHistogram">
-          Generate histogram based on target email activity
-        </Link>
+        <Link to="/portfolio/histogramGenerator">Histogram Generator</Link>
         <br />
-        <Link to="/portfolio/simpleForm">
-          Front end input form & Back end Ruby implementation of Erlang
-        </Link>
+        <Link to="/portfolio/simpleForm">Simple Form & Ruby/Erlang Translation</Link>
         <br />
-        <Link to="/portfolio/tinyChat">Front end chat app</Link>
+        <Link to="/portfolio/chatApp">Chat App</Link>
       </Typography>
     </Typography>
     <Typography variant="headline" gutterBottom>
