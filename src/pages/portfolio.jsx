@@ -15,6 +15,10 @@ const Portfolio = () => (
         <Link to="/portfolio/simpleForm">
           Front end input form & Back end Ruby implementation of Erlang
         </Link>
+        <br />
+        <Link to="/portfolio/generateHistogram">
+          Generate histogram based on target email activity
+        </Link>
       </Typography>
     </Typography>
     <Typography variant="headline" gutterBottom>
