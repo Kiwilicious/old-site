@@ -10,6 +10,8 @@ const Portfolio = () => (
     <Typography variant="headline" gutterBottom>
       Coding Challenges
       <Typography variant="body2">
+        <Link to="/portfolio/customerRecords">Customer Records</Link>
+        <br />
         <Link to="/portfolio/generateHistogram">
           Generate histogram based on target email activity
         </Link>
