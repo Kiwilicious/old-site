@@ -96,6 +96,30 @@ const HomePage = (props) => {
           <Card className={classes.card}>
             <CardContent>
               <a
+                href="https://codepen.io/Kiwilicious/pen/VQJPyv"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                <CardMedia
+                  className={classes.media}
+                  image="https://preview.ibb.co/fMyeFH/Calculator.png"
+                  title="JavaScript Calculator"
+                />
+              </a>
+              <Divider />
+              <Typography variant="headline">
+                JavaScript Calculator
+              </Typography>
+              <Typography variant="caption">
+                A simple JavaScript calculator made in vanilla JS.
+              </Typography>
+            </CardContent>
+          </Card>
+        </Grid>
+        <Grid item sm={6} xs={12}>
+          <Card className={classes.card}>
+            <CardContent>
+              <a
                 href="https://codepen.io/Kiwilicious/pen/bLGmRq"
                 target="_blank"
                 rel="noopener noreferrer"
@@ -112,30 +136,6 @@ const HomePage = (props) => {
               </Typography>
               <Typography variant="caption">
                 A project for Free Code Camp that utilizes the TwitchTV API
-              </Typography>
-            </CardContent>
-          </Card>
-        </Grid>
-        <Grid item sm={6} xs={12}>
-          <Card className={classes.card}>
-            <CardContent>
-              <a
-                href="https://codepen.io/Kiwilicious/pen/RxqWXY"
-                target="_blank"
-                rel="noopener noreferrer"
-              >
-                <CardMedia
-                  className={classes.media}
-                  image="https://preview.ibb.co/nbj3i7/Simple_form.png"
-                  title="Simple form"
-                />
-              </a>
-              <Divider />
-              <Typography variant="headline">
-                Simple form
-              </Typography>
-              <Typography variant="caption">
-                A simple form made in React with a progress dependant button
               </Typography>
             </CardContent>
           </Card>
