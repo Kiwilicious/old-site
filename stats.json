@@ -1,28 +1,44 @@
 {
   "assetsByChunkName": {
-    "path---portfolio-tiny-chat": [
-      "path---portfolio-tiny-chat-a0e39f21c11f6a62c5ab.js",
-      "path---portfolio-tiny-chat-a0e39f21c11f6a62c5ab.js.map"
+    "component---src-pages-portfolio-chat-app-jsx": [
+      "component---src-pages-portfolio-chat-app-jsx-eb5b14c62d044a01a004.js",
+      "component---src-pages-portfolio-chat-app-jsx-eb5b14c62d044a01a004.js.map"
     ],
     "component---src-pages-contact-jsx": [
       "component---src-pages-contact-jsx-02a0794f596e6ba16a4d.js",
       "component---src-pages-contact-jsx-02a0794f596e6ba16a4d.js.map"
     ],
-    "component---src-pages-portfolio-tiny-chat-jsx": [
-      "component---src-pages-portfolio-tiny-chat-jsx-c21302c2f8a0daeedcf4.js",
-      "component---src-pages-portfolio-tiny-chat-jsx-c21302c2f8a0daeedcf4.js.map"
+    "component---src-pages-portfolio-histogram-generator-jsx": [
+      "component---src-pages-portfolio-histogram-generator-jsx-0dfa69360a683a67a243.js",
+      "component---src-pages-portfolio-histogram-generator-jsx-0dfa69360a683a67a243.js.map"
     ],
     "path---": [
       "path----557518bd178906f8d58a.js",
       "path----557518bd178906f8d58a.js.map"
     ],
+    "path---portfolio-chat-app": [
+      "path---portfolio-chat-app-a0e39f21c11f6a62c5ab.js",
+      "path---portfolio-chat-app-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---portfolio-customer-records": [
+      "path---portfolio-customer-records-a0e39f21c11f6a62c5ab.js",
+      "path---portfolio-customer-records-a0e39f21c11f6a62c5ab.js.map"
+    ],
     "component---src-layouts-index-jsx": [
-      "component---src-layouts-index-jsx-f23ed309aef68e59c060.js",
-      "component---src-layouts-index-jsx-f23ed309aef68e59c060.js.map"
+      "component---src-layouts-index-jsx-0fbad1216af234f693f6.js",
+      "component---src-layouts-index-jsx-0fbad1216af234f693f6.js.map"
     ],
     "path---portfolio-simple-form": [
       "path---portfolio-simple-form-a0e39f21c11f6a62c5ab.js",
       "path---portfolio-simple-form-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---portfolio-histogram-generator": [
+      "path---portfolio-histogram-generator-a0e39f21c11f6a62c5ab.js",
+      "path---portfolio-histogram-generator-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "component---src-pages-portfolio-customer-records-jsx": [
+      "component---src-pages-portfolio-customer-records-jsx-7c89fbbbfde1147ecc65.js",
+      "component---src-pages-portfolio-customer-records-jsx-7c89fbbbfde1147ecc65.js.map"
     ],
     "path---index": [
       "path---index-a0e39f21c11f6a62c5ab.js",
@@ -49,17 +65,17 @@
       "path---portfolio-a0e39f21c11f6a62c5ab.js.map"
     ],
     "component---src-pages-portfolio-simple-form-jsx": [
-      "component---src-pages-portfolio-simple-form-jsx-145b5688b3341fb573ae.js",
-      "component---src-pages-portfolio-simple-form-jsx-145b5688b3341fb573ae.js.map"
+      "component---src-pages-portfolio-simple-form-jsx-f16511bde7b131ec46b5.js",
+      "component---src-pages-portfolio-simple-form-jsx-f16511bde7b131ec46b5.js.map"
     ],
     "component---src-pages-index-jsx": [
-      "component---src-pages-index-jsx-0c71542672091cda4058.js",
-      "component---src-pages-index-jsx-0c71542672091cda4058.js.map"
+      "component---src-pages-index-jsx-0eb2c6aafd3911a7e802.js",
+      "component---src-pages-index-jsx-0eb2c6aafd3911a7e802.js.map"
     ],
     "app": [
-      "app-3190ebbb7d8e55260a06.js",
+      "app-ab38c13493d813fea4e2.js",
       "build-js-styles.css",
-      "app-3190ebbb7d8e55260a06.js.map",
+      "app-ab38c13493d813fea4e2.js.map",
       "build-js-styles.css.map"
     ],
     "path---404": [
@@ -67,8 +83,8 @@
       "path---404-a0e39f21c11f6a62c5ab.js.map"
     ],
     "component---src-pages-portfolio-jsx": [
-      "component---src-pages-portfolio-jsx-5a9bac6be6dfbfb3b9c1.js",
-      "component---src-pages-portfolio-jsx-5a9bac6be6dfbfb3b9c1.js.map"
+      "component---src-pages-portfolio-jsx-8f79f3e4c02bfaa5ba07.js",
+      "component---src-pages-portfolio-jsx-8f79f3e4c02bfaa5ba07.js.map"
     ]
   }
 }
