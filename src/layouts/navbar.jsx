@@ -7,11 +7,9 @@ import Toolbar from 'material-ui/Toolbar';
 import Grid from 'material-ui/Grid';
 import Typography from 'material-ui/Typography';
 import HomeIcon from 'material-ui-icons/Home';
+import IconButton from 'material-ui/IconButton';
 
 const styles = theme => ({
-  root: {
-    width: '100%',
-  },
   link: {
     color: theme.palette.text.primary,
     textAlign: 'center',
@@ -20,18 +18,32 @@ const styles = theme => ({
       color: theme.palette.text.secondary,
     },
   },
-  icon: {
-    margin: theme.spacing.unit,
+  center: {
+    margin: '0 auto',
+    maxWidth: 960,
+    width: '100%',
   },
 });
 
 const NavBar = (props) => {
   const { classes } = props;
   return (
-    <div className={classes.root}>
+    <div>
       <AppBar position="static">
-        <Toolbar>
-          <Grid container spacing={16} justify="center">
+        <Toolbar className={classes.center}>
+          <Link to="/" className={classes.link}>
+            <IconButton color="inherit" aria-label="Menu">
+              <HomeIcon />
+            </IconButton>
+          </Link>
+          <Grid container>
+            <Grid item sm={2}>
+              <Link to="/" className={classes.link}>
+                <Typography variant="title" color="inherit">
+                  Home
+                </Typography>
+              </Link>
+            </Grid>
             <Grid item sm={2}>
               <Link to="/portfolio" className={classes.link}>
                 <Typography variant="title" color="inherit">
@@ -39,9 +51,6 @@ const NavBar = (props) => {
                 </Typography>
               </Link>
             </Grid>
-            <Link to="/" className={classes.link}>
-              <HomeIcon className={classes.icon} />
-            </Link>
             <Grid item sm={2}>
               <Link to="/contact" className={classes.link}>
                 <Typography variant="title" color="inherit">
